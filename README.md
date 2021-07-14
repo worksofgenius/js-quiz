@@ -15,4 +15,4 @@ js-quiz was created with:
 * GitHub pages
 	
 ## Visit
-To take this quiz, visit: 
+To take this quiz, visit: https://worksofgenius.github.io/js-quiz/
